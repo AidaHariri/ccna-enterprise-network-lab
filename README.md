@@ -57,7 +57,7 @@ The network was built up in layers, starting from Layer 2 physical redundancy an
 - Before removing/adding a serial module on a router, always run `copy running-config startup-config` first — otherwise the configuration is lost on power-down.
 
 ## 📂 File
-`CCNA_lab.pkt` — open with [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (recommended version 8.x or later).
+`CCNA_lab final.pkt` — open with [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (recommended version 8.x or later).
 
 ## 🎯 Skills Demonstrated
 Layer 2/3 switching, VLAN design, STP tuning, EtherChannel, port security, inter-VLAN routing, First Hop Redundancy Protocols (HSRP), dynamic routing (OSPF, EIGRP, BGP), route redistribution, DHCP relay, NAT/PAT, GRE tunneling, and device hardening — core competencies aligned with the CCNA certification.
